@@ -1,0 +1,1 @@
+e) SELECT COUNT(*) AS 'Quantidade Total de Pedidos' FROM pedidos;

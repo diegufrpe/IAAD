@@ -1,0 +1,5 @@
+1-Qual é a diferença entre um Banco de Dados e um Sistema de Gerenciamento de Banco de Dados?
+ R: O Banco de dados é uma coleção de dados interrelacionados, representando informações sobre um domínio específico.
+Já o SGBD é um sofware com recursos específicos para facilitar a manipulação das informações dos dados e o desenvolvimento de programas aplicativos.
+
+
